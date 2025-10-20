@@ -1,8 +1,3 @@
-Here’s the **final version** of your `README.md` for **PockyPocket**, now with a **clean, client-friendly introduction** at the top.
-You can copy this entire text directly into your `README.md` file on GitHub — it fully matches your rubric.
-
----
-
 # PockyPocket
 
 ## 1. Short Description
