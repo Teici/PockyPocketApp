@@ -137,4 +137,3 @@ Two mockup screens have been created using Figma
 
 These mockup screenshots should be attached to the repository or submitted along with the assignment.
 
-Would you like me to also write a **very short “client goal statement”** (1–2 sentences) to put at the top of the README, above the “Short Description” — something like: *“This app is intended for people who…”*? This can make the README look more polished.
