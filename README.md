@@ -134,5 +134,8 @@ Two mockup screens have been created using Figma
 
 1. **List screen** – shows lists of expenses, items, and other entries.
 2. **Add/Edit screen** – used to create or modify entries.
+<img width="336" height="413" alt="image" src="https://github.com/user-attachments/assets/8fb9924f-0b5e-4b55-a3a7-96da126b23cc" />
+<img width="240" height="293" alt="image" src="https://github.com/user-attachments/assets/8cccdf09-2125-44e6-b7b1-d5ca786f32a8" />
+
 
 
